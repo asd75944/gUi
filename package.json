@@ -1,0 +1,11 @@
+{
+  "name": "gui",
+  "version": "1.0.0",
+  "description": "vue移动端ui框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garuda.ke",
+  "license": "ISC"
+}
