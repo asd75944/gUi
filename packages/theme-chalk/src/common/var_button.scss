@@ -1,0 +1,24 @@
+@import "var";
+
+$--button-default-background-color: $--color-white !default;
+$--button-default-border-color: $--border-color-base !default;
+$--button-default-font-color: $--color-text-regular !default;
+
+$--button-font-weight: $--font-weight-primary !default;
+$--button-font-size: $--font-size-base !default;
+
+$--button-padding-vertical: 12px !default;
+$--button-padding-horizontal: 20px !default;
+
+$--button-border-radius: $--border-radius-base !default;
+$--button-active-shade-percent: 10% !default;
+
+$--button-disabled-font-color: $--color-text-placeholder !default;
+$--button-disabled-background-color: $--color-white !default;
+$--button-disabled-border-color: $--border-color-lighter !default;
+
+$--button-primary-border-color: $--color-primary !default;
+$--button-primary-font-color: $--color-white !default;
+$--button-primary-background-color: $--color-primary !default;
+
+$--button-hover-tint-percent: 20% !default;

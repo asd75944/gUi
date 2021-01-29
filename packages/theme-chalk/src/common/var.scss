@@ -1,0 +1,36 @@
+/*
+  Color
+ -------------------- */
+$--color-primary: #409EFF !default;
+$--color-white: #FFFFFF !default;
+$--color-black: #000000 !default;
+
+$--color-primary-light-1: mix($--color-white, $--color-primary, 10%) !default; /* 53a8ff */
+$--color-primary-light-2: mix($--color-white, $--color-primary, 20%) !default; /* 66b1ff */
+$--color-primary-light-3: mix($--color-white, $--color-primary, 30%) !default; /* 79bbff */
+$--color-primary-light-4: mix($--color-white, $--color-primary, 40%) !default; /* 8cc5ff */
+$--color-primary-light-5: mix($--color-white, $--color-primary, 50%) !default; /* a0cfff */
+$--color-primary-light-6: mix($--color-white, $--color-primary, 60%) !default; /* b3d8ff */
+$--color-primary-light-7: mix($--color-white, $--color-primary, 70%) !default; /* c6e2ff */
+$--color-primary-light-8: mix($--color-white, $--color-primary, 80%) !default; /* d9ecff */
+$--color-primary-light-9: mix($--color-white, $--color-primary, 90%) !default; /* ecf5ff */
+
+$--color-text-regular: #606266 !default;
+$--color-text-placeholder: #C0C4CC !default;
+
+
+$--border-color-base: #DCDFE6 !default;
+$--border-color-lighter: #EBEEF5 !default;
+/*
+  Border
+ -------------------- */
+$--border-radius-base: 4px !default;
+$--border-width-base: 1px !default;
+$--border-style-base: solid !default;
+$--border-base: $--border-width-base $--border-style-base $--border-color-base !default;
+
+/*
+ Typography
+--------------------- */
+$--font-size-base: 14px !default;
+$--font-weight-primary: 500 !default;
