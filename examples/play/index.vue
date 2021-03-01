@@ -1,8 +1,9 @@
 <template>
-  <div>
-    <gui-button type="primary" size="small" @click="handleClick">button</gui-button>
-    <gui-button @click="handleClick">button</gui-button>
-  </div>
+  <gui-button-group>
+    <gui-button type="success" size="small" @click="handleClick">button</gui-button>
+    <gui-button type="warning" @click="handleClick">button</gui-button>
+    <gui-button type="primary" size="mini" @click="handleClick">button</gui-button>
+  </gui-button-group>
 </template>
 
 <script>
