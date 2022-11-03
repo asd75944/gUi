@@ -16,6 +16,8 @@ console.log('dev2')
 
 console.log('dev2')
 
+console.log('dev1')
+
 const components = [
   Button,
   CollapseTransition
