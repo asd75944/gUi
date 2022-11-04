@@ -7,6 +7,8 @@ import CollapseTransition from 'g-ui/src/transitions/collapse-transition';
 
 console.log('dev1')
 
+console.log('dev2')
+
 const components = [
   Button,
   CollapseTransition
