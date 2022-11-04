@@ -17,6 +17,8 @@ const components = [
   CollapseTransition
 ];
 
+console.log('master 4')
+
 const install = function(Vue, opts = {}) {
   // locale.use(opts.locale);
   // locale.i18n(opts.i18n);
