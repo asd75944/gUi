@@ -12,6 +12,8 @@ console.log('master 1')
 console.log('master 2')
 console.log('dev1')
 
+console.log('dev2')
+
 const components = [
   Button,
   CollapseTransition
