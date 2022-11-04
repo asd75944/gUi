@@ -20,6 +20,9 @@ console.log('dev1')
 
 console.log('dev2')
 
+
+console.log('dev5')
+
 const components = [
   Button,
   CollapseTransition
