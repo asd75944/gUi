@@ -13,6 +13,7 @@ const components = [
 ];
 
 console.log('master 4')
+console.log('mater 111')
 
 const install = function(Vue, opts = {}) {
   // locale.use(opts.locale);
