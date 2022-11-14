@@ -6,11 +6,6 @@ import Loading from '../packages/loading/index.js';
 import locale from 'g-ui/src/locale';
 import CollapseTransition from 'g-ui/src/transitions/collapse-transition';
 
-console.log('master 1')
-
-
-
-console.log('master 2')
 const components = [
   Button,
   ButtonGroup,
